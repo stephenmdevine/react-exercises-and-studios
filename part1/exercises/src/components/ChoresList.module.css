@@ -1,5 +1,8 @@
 .choresText {
-   color: black;
+   color: rgb(0, 89, 255);
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: large;
+   font-style: italic;
 }
 
 .choresHeading {
