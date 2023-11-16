@@ -2,8 +2,12 @@ import './styles.css';
 
 function Button() {
 
+   function onLearnMore() {
+      alert("Let's go swimming!");
+   };
+
    return ( 
-         <button>
+         <button onClick={onLearnMore}>
             Learn More
          </button>
    );
