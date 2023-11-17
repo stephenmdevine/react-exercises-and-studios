@@ -1,17 +1,17 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
-     "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "name": "Baked Phyllo-Wrapped Feta with Honey",
+     "author": "John Mitzewich",
+     "description": "Baked phyllo-wrapped feta with honey is sweet, salty, savory, creamy perfection. The other thing I love about this recipe is how versatile they are—fantastic as an appetizer, or, if you serve these for breakfast with coffee or tea, you are setting yourself up for a very successful day. You could also put a big salad next to one of these and have a delicious lunch or dinner.",
+     "website": "https://foodwishes.blogspot.com/2023/10/baked-feta-phyllo-with-honey-egging.html",
+     "recipeImage": "https://www.allrecipes.com/thmb/GQbNOrKw3kf0bCq9_KqgCMhAviQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/8363765_Baked-Feta-Phyllo-With-Honey_Chef-John_4x3-e067abf42dcb49db9db64417a5b5ff2e.jpg",
+     "authorImage": "https://www.allrecipes.com/thmb/rI3ImaTYU8HVtagwqw5HL2v1Tcs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chef-john-c50f1c2cb23f4e7786d66c30bddf8bcb.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
-       "flour",
-       "heavy cream",
-       "milk"
+        "1 (7 ounce) block feta cheese", 
+        "1 large egg", 
+        "2 tablespoons melted butter", 
+        "2 tablespoons olive oil", 
+        "4 (13x18-inch) sheets frozen phyllo dough, thawed"
      ]
    }
  ]
