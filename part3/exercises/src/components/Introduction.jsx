@@ -1,11 +1,11 @@
-export default function HobbyIntroduction () {
-   return(
+export default function HobbyIntroduction() {
+   return (
       <div>
-         <h2>3 Fun Facts About Needlepoint</h2>
+         <h2>3 Fun Facts About Astrophotography</h2>
          <ol>
-            <li>Needlepoint uses a specialized canvas as it's base.</li>
-            <li>The most basic stitch is called a tent stitch.</li>
-            <li>Needlepoint uses a lot of different kinds of fibers.</li>
+            <li>Long camera exposures can capture some amazing shots of distant galaxies.</li>
+            <li>Using a fixed tripod (instead of a tracking mount) creates some fun photos of stars circling across the sky.</li>
+            <li>Modern astrophotography has the ability to image objects such as dim stars, nebulae, and galaxies.</li>
          </ol>
       </div>
    );

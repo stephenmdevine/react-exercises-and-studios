@@ -1,18 +1,17 @@
 import data from '../data.json';
 import { useState } from 'react';
+import './styling.css';
 
 export default function MyProjects() {
-   const [index, setIndex] = useState(0);
+  const [index, setIndex] = useState(0);
 
   function handleClick() {
-   if (index < data.projects.length-1)
-   {
+    if (index < data.projects.length - 1) {
       setIndex(index + 1);
-   }
-   else
-   {
+    }
+    else {
       setIndex(0);
-   }
+    }
   }
 
   let projects = data.projects;
@@ -23,9 +22,10 @@ export default function MyProjects() {
       <button onClick={handleClick}>
         Next
       </button>
-      <h2>{project.canvas} by {project.designer}
-      </h2>
-      <img src={project.photoUrl} alt={project.alt} />
+      <h2>{project.viewedObject}</h2>
+      <img className='astroImage' src={project.photoUrl} alt={project.alt} />
+      <p>A great time to capture this photo: {project.viewingTime}</p>
+
     </div>
   );
 }
